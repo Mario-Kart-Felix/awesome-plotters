@@ -17,6 +17,9 @@ A curated list of code and resources for computer-controlled drawing machines an
   - [Vector Utilities](#vector-utilities)
   - [Fonts](#fonts)
 - [Inspiration and Instruction](#inspiration-and-instruction)
+- [Manuals and Ephemera](#manuals-and-ephemera)
+  - [Manuals](#manuals)
+  - [Ephemera](#ephemera)
 - [Community](#community)
 - [Plotter Art For Sale](#plotter-art-for-sale)
 - [Other Awesomes](#other-awesomes)
@@ -181,6 +184,47 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) - Discussion and links to code for wireframe removal of STL files.
 - [How to Draw Generative Art with an Axidraw Pen Plotter](https://www.dirtalleydesign.com/blogs/news/how-to-draw-prints-with-an-axidraw-pen-plotter) - Lots of nice tips, not all specific to the Axidraw, plus some pen reviews and handy 3d-printed tools.
 - [The Best XY Plotters in 2020](https://all3dp.com/2/pen-plotters-best-xy-plotters/) - Good overview of the AxiDraw and its clones, plus some DIY options.
+- [Journal Intime II](https://fr.calameo.com/read/0002895619da2a1b1daf8) - One of Vera Molnár's notebooks, dated 1983–1985
+
+## Manuals and Ephemera
+
+Scanned plotter manuals and marketing ephemera from the [Internet Archive](https://archive.org)
+
+### Manuals
+
+- [Apple Color Plotter User's Manual](https://archive.org/details/AppleColorPlotter)
+- [Programming CalComp Pen Plotters (1968)](https://archive.org/details/bitsavers_calcompProlottersJun68_2464236)
+- [Commodore 1520 Printer Plotter Manual (1983)](https://archive.org/details/1520PrinterPlotterUsersManualStyleA)
+- [Commodore 1520 Printer Plotter Manual](https://archive.org/details/1520PrinterPlotterusersManualStyleB)
+- [Control Data 165/165-2 Plotter Manual](https://archive.org/details/bitsavers_cdc160139c_4086972)
+- [HP 7475A Graphics Plotter Operation and Interconnection Manual](https://archive.org/details/HP7475AOperationManual)
+- [HP 7570A DraftPro Plotter Hardware Support Manual](https://archive.org/details/7570adraftproplotterhardwaresupportmanual0757090000201pagesdec86)
+- [HP 7585B Drafting Plotter Service Manual (1983)](https://archive.org/details/bitsavers_hpplotter0_18190273)
+- [HP DraftPro Plotter User's Guide (1986)](https://archive.org/details/draftproplotterusersguide0757090017163pagesmay86)
+- [HP DraftPro Plotter Programmers Reference (1986)](https://archive.org/details/draftproprogrammersreference0757090001387pagessep86)
+- [Radio Shack TRS-80 Plotter Printer Manual](https://archive.org/details/Plotter_Printer_19xx_Radio_Shack)
+- [Roland DXY-880 Operation Manual (1984)](https://archive.org/details/RolandDXY880PlotterOperationManual)
+- [Roland DPX-3300 Operation Manual](https://github.com/sismoke/Roland-DPX-3300/blob/master/manual/DPX-3300.pdf)
+- [Roland DPX-3300 Service Notes (1987) (GitHub)](https://archive.org/details/dpx-3300-service-manual)
+- [Roland DPX-3300 Schematics (1987)](https://archive.org/details/dpx-3300-schematics)
+- [Roland DPX-3700A DPX-2700A User's Manual (Roland Direct Download)](https://downloadcenter.rolanddg.com/contents/manuals/DPX-3700A+2700A_USE_E_R8.pdf) 
+- [Siemens C1613 Plotter Manual (German)](https://archive.org/details/SiemensC1613Manual)
+- [Panasonic RK-P400C 4-Color Graphic Penwriter Manual](https://archive.org/details/panasonic-rk-p-400-c-manual/)
+
+### Ephemera
+
+- [Time Share Peripherals TSP-212 Brochure](https://archive.org/details/TNM_Time_Share_Peripherals_-_TSP-212_plotting_sys_20170630_0194)
+- [Hewlett-Packard Journal Volume 29 Number 1](https://archive.org/details/Hewlett-Packard_Journal_Vol._29_No._1_1977-09_Hewlett-Packard) - Multiple articles about the development of the HP Model 9872A and 7221A pen plotters.
+- [Hewlett-Packard Journal Volume 32 Number 11](https://archive.org/details/Hewlett-Packard_Journal_Vol._32_No._11_1981-11_Hewlett-Packard) - Multiple articles about the development of the HP Model 7580A plotter.
+- [CalComp Precision Graphics System 900/728 Brochure (1970)](https://archive.org/details/TNM_CalComp_-_Precision_graphics_system_900-728_20170630_0196)
+- [Digital Plotting Newsletter (1967)](https://archive.org/details/TNM_Digital_Plotting_Newsletter_march-april_1967__20171014_0114)
+- [Versatec Printers and Plotters Brochure (1977)](https://archive.org/details/TNM_Versatec_printers_and_plotters_-_Versatec_a_X_20180227_0009)
+- [Versatec Printer/Plotters, Plotters and Output Systems (1981)](https://archive.org/details/TNM_Printer-plotters_plotters_and_output_systems__20171113_0057)
+- [Roland Users Group Volume 2 Number 4 (1984)](https://archive.org/details/RolandUsersGroupVolume2Number41984/page/n39/mode/2up) - _Computers and Plotters Take the Place of Drafting Tables and Pencils_ article on page 36 (PDF page 40).
+- [Omega-t Systems FasPlot Plotter Brochure](https://archive.org/details/TNM_Omega-t_Systems_-_FasPlot_Plotter_20170630_0254)
+- [Commodore Computer Plotter CBM 8075 Brochure (German)](https://archive.org/details/Plotter_CBM8075_198x_Commodore_DE)
+- [Strobe Model 100 Graphics Plotter Brochure (1980)](https://archive.org/details/TNM_Strope_Model_100_graphics_plotter_-_Strobe_In_20180506_0009)
+- [Roland DG Plotter Ad in Byte Magazine Vol 12 No 4 (1987)](https://archive.org/details/byte-magazine-1987-04/page/n159/mode/2up) ([via @OldTechAdverts](https://twitter.com/OldTechAdverts/status/1454558415355850755))
 
 ## Community
 
@@ -191,7 +235,7 @@ Where to find other plotter and drawbot friends.
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Plotter People](https://plotterpeople.github.io/) - In-person meetups (SF and NYC so far) with talks and plotter art galleries.
-- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - Discord forum with an active community. 
+- [DrawingBots Discord Forum](https://discordapp.com/invite/XHP3dBg) - Discord forum with an active community.
 - [PlotterFiles](https://plotterfiles.com/) - Community for sharing SVG files for plotters.
 
 ## Plotter Art For Sale
@@ -205,7 +249,6 @@ Where to find other plotter and drawbot friends.
 - [BustBright](https://mkt.com/bustbright)
 - [Martin O'Leary](https://shop.mewo2.com)
 - [Geoffrey Bradway](https://www.chromatocosmos.com/)
-- [Yuin Chien](http://store.yuinchien.com/)
 - [Andrew Heumann](https://shop.andrewheumann.com/)
 - [brubsby](http://shop.brubsby.com/)
 - [Arjan van der Meij](https://dutchplottr.nl/en/)
@@ -215,7 +258,6 @@ Where to find other plotter and drawbot friends.
 - [Pedro Alcocer](https://store.pedroalcocer.com/)
 - [AndyMakes](https://shop.andymakes.com/)
 - [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
-
 
 ## Other Awesomes
 
